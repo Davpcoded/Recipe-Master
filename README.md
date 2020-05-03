@@ -17,4 +17,48 @@ bring up the nutrition info provided by the USDA Food Data API.
 
 Created by: Chris Bragg, Sveta Demkovich, Daniel Villarroel
 
-https://drive.google.com/file/d/1h1LYU3MEdPMSiWuKZAMQK9vXNDGG2eLI/view
+![Recipe Master Demo](https://media.giphy.com/media/LmN7Gm8TKC6huvYuxA/giphy.gif)
+
+# API's consumed
+
+-Recipe Puppy
+-U.S. Department of Agriculture FoodData Central
+
+# Wireframe
+
+![Wireframe](docs\wireframe.png)
+
+# Breakdown of Tasks
+
+-Chris: Front end except recipe section, nutrition API functionality
+-Sveta: Recipe API functionality using pantry list ingredients, recipe section front end work
+-Daniel: Pantry search submit and clear functionality
+
+# Latest Commit
+
+-Updated ReadMe to add more project details
+
+Previous commits
+-Modified demo gif link
+-Modified ReadMe
+-Added PPT presentation
+-Modified front end for recipe card and ingredient sections
+-Additional pantry search error handling
+-Added recipe card functionality
+-Added recipe ingredients functionality
+-Changed on click handler for ingredients to new class
+-Added media queries to change margins based on screen width
+-Moved all script into document ready for jQuery
+-Added on click handler for recipe cards to display ingredients
+-Modified div classes for responsiveness
+-Added lower banner
+-Modified Pantry Search, Pantry List, and background
+-Modify HTML/CSS for UI
+-Error handling to display "N/A" if nutrient is not found
+-Added kcal units to Calories
+-Added Fiber and Cholesterol
+-Created temporary html tags that will display nutrient info
+-Created temporary html buttons that hold recipe ingredients
+-Created event handler on recipe buttons
+-Created AJAX call to search food title of recipe button
+-Created functions to handle AJAX response and update html tags with nutrient info -Modified shape and color of buttons created into pantry list -Added logic to prevent from submiting an empty string into pantry search
