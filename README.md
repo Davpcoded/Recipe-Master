@@ -17,4 +17,4 @@ bring up the nutrition info provided by the USDA Food Data API.
 
 Created by: Chris Bragg, Sveta Demkovich, Daniel Villarroel
 
-https://camo.githubusercontent.com/7119597663fccd27a0242b485922b8fdb9b47458/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a546b6852596c45344e75586d6b416567672f67697068792e676966
+https://giphy.com/gifs/LmN7Gm8TKC6huvYuxA/html5
